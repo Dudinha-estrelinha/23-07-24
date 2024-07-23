@@ -1,0 +1,14 @@
+h1{
+    color:rosybrown;
+    /*comentario*/
+}
+
+h2{
+    margin: 0px;
+}
+.time{
+    width:400px;
+    border: solid rgb(182, 57, 57) 1px;
+    padding:30px ;
+    margin:50px;
+}
